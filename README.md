@@ -3,6 +3,7 @@
 https://www.javanelec.com/CustomAjax/GetAppDocument/e940bcf4-3f04-4df6-8606-db191661dd7f?type=1&inlineName=True) it. 
 
 
-2. _connect_ the circuit based on the following picture: ![this picture](https://hacksterio.s3.amazonaws.com/uploads/attachments/327677/board_small_2Xf0pO8kBs.png).
+2. _connect_ the circuit based on the following picture: 
+3. ![this picture](https://hacksterio.s3.amazonaws.com/uploads/attachments/327677/board_small_2Xf0pO8kBs.png).
 
 3  **open** the code in the [code folder](https://github.com/yuna478/SRF05_Yuna_MRA1400/tree/main/code) and upload it to the arduino board
