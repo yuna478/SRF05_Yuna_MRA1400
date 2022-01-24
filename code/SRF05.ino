@@ -1,5 +1,5 @@
-const unsigned int TRIG_PIN=13;
-const unsigned int ECHO_PIN=12;
+const unsigned int TRIG_PIN=6;
+const unsigned int ECHO_PIN=5;
 const unsigned int BAUD_RATE=9600;
 
 void setup() {
